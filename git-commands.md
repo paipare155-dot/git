@@ -17,7 +17,7 @@ git branch branchname - to create new branch
 
 git checkout branchname - to switch between brah=nches to push chnages to specific branch.
 
-git push -u origin branchname - push the current commited chnages to the github repo or remote repo.
+git push origin -u  branchname - push the current commited chnages to the github repo or remote repo.
 
 git remote -v - check which remote repository your local Git repository is connect to.
 
